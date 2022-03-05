@@ -53,7 +53,7 @@ Nova caixa de texto
 
 ![Genshin Impact](https://konachan.com/sample/c0bbea4798f246e5513673629a4eabd2/Konachan.com%20-%20301252%20sample.jpg)
 
-![Emergency Food](EmergencyFood.jpg)
+![Emergency Food](./imagens/EmergencyFood.jpg)
 
 ### Tarefas
 
@@ -76,6 +76,6 @@ RedHat   | Enterprise | 8
 
 JQuerry|Python|Nodejs|React
 -------|------|------|-----
-![](jquerry_logo.jpg)|![](python_logo.png)|![](nodejs_logo.png)|![](react_logo.png)
+![](./imagens/jquerry_logo.jpg)|![](./imagens/python_logo.png)|![](./imagens/nodejs_logo.png)|![](./imagens/react_logo.png)
 Java | MySQL | PostgreSQL | MongoDB
-![](java_logo.png)|![](mysql_logo.png)|![](postgresql_logo.png)|![](mongodb_logo.png)
+![](./imagens/java_logo.png)|![](./imagens/mysql_logo.png)|![](./imagens/postgresql_logo.png)|![](./imagens/mongodb_logo.png)
