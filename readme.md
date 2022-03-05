@@ -79,3 +79,6 @@ JQuerry|Python|Nodejs|React
 ![](./imagens/jquerry_logo.jpg)|![](./imagens/python_logo.png)|![](./imagens/nodejs_logo.png)|![](./imagens/react_logo.png)
 Java | MySQL | PostgreSQL | MongoDB
 ![](./imagens/java_logo.png)|![](./imagens/mysql_logo.png)|![](./imagens/postgresql_logo.png)|![](./imagens/mongodb_logo.png)
+
+### Site de consulta: 
+* Alura - Criando anotações com Markdown: https://www.alura.com.br/artigos/criando-anotacoes-com-markdown
